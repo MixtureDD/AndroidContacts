@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidContacts</string>
+    <string name="search_title">搜索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details_phone">电话</string>
+    <string name="details_email">邮箱</string>
+    <string name="details_name">姓名</string>
+
+    <string name="edit_title">编辑</string>
+</resources>
